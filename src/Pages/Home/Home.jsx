@@ -1,6 +1,5 @@
 import React from 'react'
 import LoveIcon from '../../assets/combined-love.svg'
-import Line from '../../assets/whiteline.svg'
 import Ife1 from '../../assets/1.png'
 import Ife2 from '../../assets/2.png'
 import Ife3 from '../../assets/3.png'
@@ -32,7 +31,6 @@ const Home = () => {
                             <img src={LoveIcon} alt="" />
                         </div>
 
-                        {/* <img src={Line} alt="" className="Line" /> */}
                     </div>
 
                     <div className="SecondSection">
