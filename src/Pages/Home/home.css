@@ -1,0 +1,108 @@
+.HomeWrapper {
+    padding: 0 40px;
+    color: white;
+    position: relative;
+}
+
+@media screen and (max-width: 1279px) {
+    .HomeWrapper {
+        display: none;
+    }
+
+    .ForMobile {
+        display: block;
+        color: white;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 50% auto;
+        padding: 0 50px;
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+
+.SecondSection {
+    margin-bottom: 210px;
+    margin-top: 105px;
+    margin-left: 52px;
+}
+
+.SecondSection p {
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+}
+
+.SecondSection h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 57px;
+}
+
+.Age {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    line-height: 100px;
+}
+
+.AgeSubText {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+}
+
+.TopWrapper {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 20px;
+}
+
+.TopWrapper p {
+    color: rgba(229, 229, 229, 0.61);
+    padding-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 3px;
+}
+
+.Line {
+    width: 1205px;
+}
+
+.rightSection {
+    position: absolute;
+    top: 380px;
+    right: 250px;
+    width: 300px;
+}
+
+.rightSection p {
+    padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Images img {
+    margin-bottom: 15px;
+}
+
+.LoveListSection {
+    margin-left: 52px;
+    width: 390px;
+}
+
+.LoveListSection p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.LoveList {
+    margin-top: 15px;
+}
+
+.LoveList p {
+    padding-bottom: 25px;
+}
+
+.Footer {
+    text-align: center;
+    padding-left: 10px;
+}
