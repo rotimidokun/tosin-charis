@@ -15,6 +15,9 @@ import Ife12 from '../../assets/12.png'
 import Ife13 from '../../assets/13.png'
 import Ife14 from '../../assets/14.png'
 import Ife15 from '../../assets/15.png'
+import Ife16 from '../../assets/16.png'
+import Ife17 from '../../assets/17.png'
+import Ife18 from '../../assets/18.png'
 
 
 import './home.css'
@@ -59,7 +62,10 @@ const Home = () => {
                         <img src={Ife12} alt="" height="330px" />
                         <img src={Ife13} alt="" height="330px" />
                         <img src={Ife14} alt="" height="330px" />
+                        <img src={Ife16} alt="" height="330px" />
                         <img src={Ife15} alt="" height="330px" />
+                        <img src={Ife18} alt="" height="330px" />
+                        <img src={Ife17} alt="" height="330px" />
                     </div>
 
                     <p className="Footer">Always loving ❤ you &#169; Ayomiposi</p>
